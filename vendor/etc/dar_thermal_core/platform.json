@@ -1,0 +1,23 @@
+{
+  "version":20220921,
+  "config": [
+    {
+      "type": "special",
+      "platform": [
+        ""
+      ]
+    },
+    {
+      "type": "high",
+      "min_platform": "0x6785"
+    },
+    {
+      "type": "middle",
+      "min_platform": "0x6768"
+    },
+    {
+      "type": "low",
+      "min_platform": ""
+    }
+  ]
+}

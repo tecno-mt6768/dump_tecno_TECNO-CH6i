@@ -1,0 +1,64 @@
+{
+  "version":20220921,
+  "support": "1",
+  "thermal_game": [
+    "com.tencent.tmgp.pubgmhd",
+    "com.tencent.ig",
+    "com.tencet.igce",
+    "com.rekoo.pubgm",
+    "com.pubg.krmobile",
+    "com.vng.pubgmobile",
+    "com.dts.freefireth",
+    "com.dts.freefiremax",
+    "com.mobile.legends",
+    "com.miHoYo.GenshinImpact",
+    "com.miHoYo.Yuanshen",
+    "com.levelinfinite.apexlegendsmobile",
+    "com.ea.gp.apexlegendsmobilefps"
+  ],
+  "thermal_core": {
+    "first_level": 3,
+    "second_level": 2,
+    "third_level": 1,
+    "fps_recent_time": 30,
+    "min_temp_threshold": 50
+  },
+  "thermal_policy": [
+    {
+      "name": "fre_thermal",
+      "enable": 1,
+      "param": {
+        "tune_down_level": 40,
+        "tune_up_level": 10
+      }
+    },
+    {
+      "name": "frame_override",
+      "enable": 1,
+      "param": {
+        "first_level": 0.95,
+        "second_level": 0.8,
+        "third_level": 0.85,
+        "amend": -1
+      }
+    },
+    {
+      "name": "powerHal",
+      "enable": 1,
+      "param": {
+        "first_level": 0.9,
+        "second_level": 0.8,
+        "third_level": 0.7
+      }
+    },
+    {
+      "name": "screen",
+      "enable": 1,
+      "param": {
+        "adjust_range": 10,
+        "max_brightness": 220,
+        "min_brightness": 180
+      }
+    }
+  ]
+}

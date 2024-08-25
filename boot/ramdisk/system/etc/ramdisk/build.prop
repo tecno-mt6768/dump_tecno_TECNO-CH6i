@@ -1,0 +1,23 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.bootimage.brand=TECNO
+ro.product.bootimage.device=TECNO-CH6i
+ro.product.bootimage.manufacturer=TECNO
+ro.product.bootimage.model=TECNO CH6i
+ro.product.bootimage.name=CH6i-GL
+ro.product.bootimage.tran.device.name.default=
+ro.bootimage.build.date=Fri Feb  3 22:38:18 CST 2023
+ro.bootimage.build.date.utc=1675435098
+ro.bootimage.build.fingerprint=TECNO/CH6i-GL/TECNO-CH6i:12/SP1A.210812.016/230203V1529:user/release-keys
+ro.bootimage.build.id=SP1A.210812.016
+ro.bootimage.build.tags=release-keys
+ro.bootimage.build.type=user
+ro.bootimage.build.version.incremental=230203V1529
+ro.bootimage.build.version.release=12
+ro.bootimage.build.version.release_or_codename=12
+ro.bootimage.build.version.sdk=31
+# Auto-added by post_process_props.py
+persist.sys.usb.config=none
+# end of file

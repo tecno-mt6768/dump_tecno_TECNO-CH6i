@@ -1,0 +1,20 @@
+## sys_tssi_64_tecno-user 12 SP1A.210812.016 235193 release-keys
+- Manufacturer: tecno
+- Platform: mt6768
+- Codename: TECNO-CH6i
+- Brand: TECNO
+- Flavor: sys_tssi_64_tecno-user
+- Release Version: 12
+- Kernel Version: 4.19.191
+- Id: SP1A.210812.016
+- Incremental: 230203V1959
+- Tags: release-keys
+- CPU Abilist: arm64-v8a,armeabi-v7a,armeabi
+- A/B Device: true
+- Treble Device: true
+- Locale: en-US
+- Screen Density: undefined
+- Fingerprint: TECNO/CH6i-GL/TECNO-CH6i:12/SP1A.210812.016/230203V1529:user/release-keys
+- OTA version: 
+- Branch: sys_tssi_64_tecno-user-12-SP1A.210812.016-235193-release-keys
+- Repo: tecno_tecno-ch6i_dump

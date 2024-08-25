@@ -1,0 +1,12 @@
+
+com.nati.cal
+com.smartlife.nebula
+com.hatsune.eagleee
+com.yomobigroup.chat
+com.afmobi.boomplayer
+com.transsnet.palmpay
+com.google.android.apps.docs
+com.google.android.apps.tachyon
+com.google.android.apps.photos
+com.google.android.videos
+com.transsion.compass
